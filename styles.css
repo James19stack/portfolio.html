@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+    background-image: url(image/people.jpg;
+  
+  h1 {
+    color: blueviolet;
+    text-align: italic;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .intro {
+      font-style: italic;
+  }
+  .line1 {
+      color: red;
+  }
+  #line2 {
+      color: red;
+  }
+  .important {
+      color: red;
+  }
+  img {
+    float: left;
+  }
+  @media screen and (min-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+        }
+  }
