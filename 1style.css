@@ -1,0 +1,21 @@
+body{
+  background-color:grey
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: /* BUG:  */;
+  text-align:center;
+}
+p {
+  font-family: serif;
+}
+ul{
+  line-height: /* FIXME:  */;
+}
+{
+  background-color: green;
+}
